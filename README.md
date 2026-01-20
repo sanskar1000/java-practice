@@ -10,8 +10,9 @@ by practicing each concept with simple and clear examples.
   - Comments
   - Data Types
   - Type Casting
- 
-
+  - Variables
+  
+  
 ## Folder Structure
 
 - basics/        → Core Java syntax and fundamentals  
