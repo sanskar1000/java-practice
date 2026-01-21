@@ -1,3 +1,5 @@
+package basics;
+
 class TypeCastingDemo {
     public static void main(String[] args) {
         int a = 10;
