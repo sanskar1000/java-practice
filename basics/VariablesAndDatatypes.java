@@ -10,7 +10,7 @@ public class Main {
           double morningTemp = 22.5;
           double afternoonTemp = 28.8 ;
           double eveningTemp = 23.4 ;
-        // Don't modify the code below
+        
         System.out.println("Current Temperature: " + temperature);
         System.out.println("Humidity Level: " + humidity);
         System.out.println("Wind Speed: " + windSpeed);
