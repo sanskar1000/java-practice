@@ -11,6 +11,7 @@ by practicing each concept with simple and clear examples.
   - Data Types
   - Type Casting
   - Variables
+  - Literals 
   
   
 ## Folder Structure
