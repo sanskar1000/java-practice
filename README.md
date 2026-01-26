@@ -13,6 +13,7 @@ by practicing each concept with simple and clear examples.
   - Variables
   - Literals
   - Input and Output
+  - Operators
   
   
 ## Folder Structure
