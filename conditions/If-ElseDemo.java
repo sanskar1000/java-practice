@@ -1,5 +1,5 @@
 // Demonstrates if-else statement
-package conditions;
+package condition;
 
 import java.util.Scanner;
 
