@@ -12,14 +12,31 @@ by practicing each concept with simple and clear examples.
   - Type Casting
   - Variables
   - Literals
-  - Input and Output
-  - Operators
-  - Conditional Statement
-  
+  - Input and Outpu
+- Operators
+- Conditional Statements  
+  - if statement  
+  - if-else statement  
+  - else-if ladder  
+  - nested if  
+  - switch statement  
+  - Includes basic examples and practice programs for if-else conditions  
   
 ## Folder Structure
 
-- basics/        → Core Java syntax and fundamentals  
+- basics/  
+  Core Java syntax and fundamentals.
+
+- operators/  
+  Programs demonstrating arithmetic, relational, logical, assignment, unary, and ternary operators.
+
+- condition/  
+  Conditional statements with basic examples and practice programs, including:
+  - if
+  - if-else
+  - else-if ladder
+  - nested if
+  - switch
 
 ## Learning Approach
 
