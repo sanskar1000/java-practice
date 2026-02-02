@@ -42,6 +42,12 @@ by practicing each concept with simple and clear examples.
   - nested if
   - switch
 
+- loops/
+  Programs demonstrating basic loop concepts:
+  - for loop
+  - while loop
+  - do-while loop    
+
 ## Learning Approach
 
 - One concept per file
