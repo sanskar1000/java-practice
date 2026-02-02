@@ -12,7 +12,7 @@ by practicing each concept with simple and clear examples.
   - Type Casting
   - Variables
   - Literals
-  - Input and Outpu
+  - Input and Output
 - Operators
 - Conditional Statements  
   - if statement  
@@ -20,7 +20,11 @@ by practicing each concept with simple and clear examples.
   - else-if ladder  
   - nested if  
   - switch statement  
-  - Includes basic examples and practice programs for if-else conditions  
+  - Includes basic examples and practice programs for if-else conditions
+- Loops
+  - for loop
+  - while loop
+  - do-while loop
   
 ## Folder Structure
 
