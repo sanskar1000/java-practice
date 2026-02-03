@@ -25,6 +25,7 @@ by practicing each concept with simple and clear examples.
   - for loop
   - while loop
   - do-while loop
+  - Nested loop
   
 ## Folder Structure
 
@@ -43,11 +44,11 @@ by practicing each concept with simple and clear examples.
   - switch
 
 - loops/
-  
   Programs demonstrating basic loop concepts:
   - for loop
   - while loop
-  - do-while loop    
+  - do-while loop
+  - Nested loop   
 
 ## Learning Approach
 
