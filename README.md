@@ -43,6 +43,7 @@ by practicing each concept with simple and clear examples.
   - switch
 
 - loops/
+  
   Programs demonstrating basic loop concepts:
   - for loop
   - while loop
