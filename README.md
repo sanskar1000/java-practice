@@ -4,6 +4,15 @@ This repository contains my Java learning and practice programs.
 I am using this repository to build strong fundamentals in Java
 by practicing each concept with simple and clear examples.
 
+## Purpose of This Repository
+This repository is created to build strong Java fundamentals through
+step-by-step practice. Each topic is practiced using:
+- concept demos
+- pattern programs
+- logical practice problems
+
+The focus is on understanding logic, not memorizing syntax.
+
 ## Topics Covered
 
 - Java Basics
@@ -26,6 +35,7 @@ by practicing each concept with simple and clear examples.
   - while loop
   - do-while loop
   - Nested loop
+  - Includes basic examples and practice programs for loops
   
 ## Folder Structure
 
@@ -44,12 +54,15 @@ by practicing each concept with simple and clear examples.
   - switch
 
 - loops/
+  
   Programs demonstrating basic loop concepts:
   - for loop
   - while loop
   - do-while loop
-  - Nested loop   
-
+  - Nested loop
+  - pattern programs
+  - logical practice problems
+    
 ## Learning Approach
 
 - One concept per file
