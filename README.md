@@ -36,6 +36,11 @@ The focus is on understanding logic, not memorizing syntax.
   - do-while loop
   - Nested loop
   - Includes basic examples and practice programs for loops
+- Advanced Control Statements
+  - break statement
+  - continue statement
+  - labeled break
+  - nested if with loops    
   
 ## Folder Structure
 
@@ -62,6 +67,8 @@ The focus is on understanding logic, not memorizing syntax.
   - Nested loop
   - pattern programs
   - logical practice problems
+ 
+- control-statements-advanced/
     
 ## Learning Approach
 
