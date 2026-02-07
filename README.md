@@ -40,7 +40,12 @@ The focus is on understanding logic, not memorizing syntax.
   - break statement
   - continue statement
   - labeled break
-  - nested if with loops    
+  - nested if with loops
+- Methods
+  - Method basics
+  - Parameters and arguments
+  - Return types
+   
   
 ## Folder Structure
 
@@ -69,6 +74,12 @@ The focus is on understanding logic, not memorizing syntax.
   - logical practice problems
  
 - control-statements-advanced/
+
+- methods/
+ Programs demonstrating basic method concepts:  
+  - Method basics
+  - Parameters and arguments
+  - Return types
     
 ## Learning Approach
 
