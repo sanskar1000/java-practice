@@ -101,6 +101,13 @@ The focus is on understanding logic, not memorizing syntax.
 - Code written for understanding, not memorization
 - Regular practice and commits
 
+## Upcoming Topics
+- Arrays
+- Strings
+- Object-Oriented Programming (OOP)
+- Exception Handling
+- Mini Projects
+  
 ## Purpose
 
 This repository tracks my progress in Java and helps me
