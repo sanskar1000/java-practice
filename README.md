@@ -15,36 +15,48 @@ The focus is on understanding logic, not memorizing syntax.
 
 ## Topics Covered
 
-- Java Basics
-  - Comments
-  - Data Types
-  - Type Casting
-  - Variables
-  - Literals
-  - Input and Output
-- Operators
-- Conditional Statements  
-  - if statement  
-  - if-else statement  
-  - else-if ladder  
-  - nested if  
-  - switch statement  
-  - Includes basic examples and practice programs for if-else conditions
-- Loops
-  - for loop
-  - while loop
-  - do-while loop
-  - Nested loop
-  - Includes basic examples and practice programs for loops
-- Advanced Control Statements
-  - break statement
-  - continue statement
-  - labeled break
-  - nested if with loops
-- Methods
-  - Method basics
-  - Parameters and arguments
-  - Return types
+### Java Basics
+- Comments
+- Data Types
+- Variables
+- Type Casting
+- Literals
+- Input and Output
+
+### Operators
+- Arithmetic operators
+- Relational operators
+- Logical operators
+- Unary operators
+- Ternary operator
+
+### Conditional Statements
+- if statement
+- if-else statement
+- else-if ladder
+- nested if
+- switch statement
+- Practice programs for decision making
+
+### Loops
+- for loop
+- while loop
+- do-while loop
+- Nested loops
+- Pattern programs
+- Logical practice problems
+
+### Advanced Control Statements
+- break statement
+- continue statement
+- labeled break
+- nested if with loops
+
+### Methods
+- Method basics
+- Parameters and arguments
+- Return types
+- Method overloading
    
   
 ## Folder Structure
@@ -80,6 +92,7 @@ The focus is on understanding logic, not memorizing syntax.
   - Method basics
   - Parameters and arguments
   - Return types
+  - method overloading
     
 ## Learning Approach
 
