@@ -36,7 +36,7 @@ The focus is on understanding logic, not memorizing syntax.
 - else-if ladder
 - nested if
 - switch statement
-- Practice programs for decision making
+- practice programs for decision making
 
 ### Loops
 - for loop
@@ -57,6 +57,7 @@ The focus is on understanding logic, not memorizing syntax.
 - Parameters and arguments
 - Return types
 - Method overloading
+- Practice program of methods
    
   
 ## Folder Structure
@@ -92,7 +93,8 @@ The focus is on understanding logic, not memorizing syntax.
   - Method basics
   - Parameters and arguments
   - Return types
-  - method overloading
+  - Method overloading
+  - Practice program of methods
     
 ## Learning Approach
 
