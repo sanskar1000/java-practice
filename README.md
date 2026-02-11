@@ -82,7 +82,10 @@ This repository is designed to move step-by-step from basic syntax to core Java 
   - Return types
   - Method overloading
   - Practice program of methods
-    
+ 
+- .gitignore
+-  README.md
+      
 ## Learning Approach
 
    - One concept at a time
@@ -99,18 +102,24 @@ This repository is designed to move step-by-step from basic syntax to core Java 
 - File Handling
 - Mini Projects
 
-🛠 Tools & Language
-	•	Language: Java
-	•	IDE: Any Java-supported IDE (IntelliJ IDEA / VS Code / Eclipse)
-	•	Java Version: Standard JDK
+## 🔧 Project Configuration
 
-📌 Notes
-	•	Each program focuses on one concept
-	•	Folder naming follows topic-wise organization
-	•	Code is intentionally kept simple for clarity
+- `.gitignore` is used to exclude compiled files, IDE settings, and system-generated files
+- Keeps the repository clean and professional
+
+## Tools & Language
+	-	Language: Java
+	-	IDE: Any Java-supported IDE (IntelliJ IDEA / VS Code / Eclipse)
+	-	Java Version: Standard JDK
+
+## Notes
+	-	Each program focuses on one concept
+	-	Folder naming follows topic-wise organization
+	-	Code is intentionally kept simple for clarity
 
 ## Progress Philosophy
   Consistency beats intensity.
+  
 This repository is updated gradually as concepts are learned and practiced.
 
 ## Purpose
