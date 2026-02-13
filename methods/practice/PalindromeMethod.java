@@ -1,3 +1,4 @@
+//Practice : check number is palindrome or not
 package methods.practice;
 
 public class PalindromeMethod {
