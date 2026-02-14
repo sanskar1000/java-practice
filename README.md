@@ -56,6 +56,9 @@ This repository is designed to move step-by-step from basic syntax to core Java 
 - Return types
 - Method overloading
 - Method-based problem solving
+
+### Arrays
+- Array declaration and initialization
    
   
 ## Folder Structure
@@ -82,6 +85,9 @@ This repository is designed to move step-by-step from basic syntax to core Java 
   - Return types
   - Method overloading
   - Practice program of methods
+
+-arrays/
+ - ArrayBasics.java
  
 - .gitignore
 -  README.md
