@@ -59,7 +59,7 @@ This repository is designed to move step-by-step from basic syntax to core Java 
 
 ### Arrays
 - Array declaration and initialization
-   
+- Taking array input   
   
 ## Folder Structure
 
@@ -88,7 +88,8 @@ This repository is designed to move step-by-step from basic syntax to core Java 
 
 -arrays/
  - ArrayBasics.java
- 
+ - ArrayInputOutput.java
+
 - .gitignore
 -  README.md
       
