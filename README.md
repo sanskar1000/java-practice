@@ -87,8 +87,8 @@ This repository is designed to move step-by-step from basic syntax to core Java 
   - Practice program of methods
 
 -arrays/
- - ArrayBasics.java
- - ArrayInputOutput.java
+  - ArrayBasics.java
+  - ArrayInputOutput.java
 
 - .gitignore
 -  README.md
