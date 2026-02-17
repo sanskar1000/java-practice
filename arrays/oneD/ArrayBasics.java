@@ -1,5 +1,5 @@
 //Demonstrate: Arraya in java with basic examlpe.
-package arrays;
+package arrays.oneD;
 
 public class ArrayBasics {
     public static void main(String[] args) {
