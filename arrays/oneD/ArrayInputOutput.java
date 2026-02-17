@@ -1,5 +1,5 @@
 //Demonstrates : Input Output in array
-package arrays;
+package arrays.oneD;
 
 import java.util.Scanner;
 
