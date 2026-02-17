@@ -1,4 +1,4 @@
-package arrays;
+package arrays.oneD;
 import java.util.Scanner;
 
 /*
