@@ -1,15 +1,17 @@
-# Java Practice Repository
+# Java Core Practice Repository
 
-A structured Java practice repository focused on building strong programming fundamentals through
-clear examples, logical problem-solving, and consistent practice.
+A structured Java practice repository focused on mastering core Java concepts 
+through small, focused programs and logical problem solving.
 
-This repository is designed to move step-by-step from basic syntax to core Java concepts in a clean and organized manner.
+This repository follows a step-by-step learning approach from basic syntax 
+to advanced core concepts.
 
-📌 Purpose of This Repository
-	•	Strengthen Java fundamentals
-	•	Practice concepts with small, focused programs
-	•	Build a clean learning trail for revision and interviews
-	•	Develop disciplined coding and repository structure
+## 🚀 Purpose of This Repository
+
+- Strengthen Java fundamentals
+- Practice clean and readable coding
+- Improve logical problem-solving skills
+- Build strong base for backend development
 
 ## Topics Covered
 
@@ -57,9 +59,9 @@ This repository is designed to move step-by-step from basic syntax to core Java 
 - Method overloading
 - Method-based problem solving
 
-### Arrays
-- Array declaration and initialization
-- Taking array input   
+### arrays
+- 1D array
+- 2D array
   
 ## Folder Structure
 
@@ -86,31 +88,46 @@ This repository is designed to move step-by-step from basic syntax to core Java 
   - Method overloading
   - Practice program of methods
 
--arrays/
-  - ArrayBasics.java
-  - ArrayInputOutput.java
-
+arrays/
+   ├── oneD/
+   └── twoD/
+   
 - .gitignore
 -  README.md
+
+## ▶️ How to Run
+
+1. Install JDK
+2. Compile the file:
+   javac FileName.java
+3. Run the program:
+   java FileName
+
+## 🛠 Technologies Used
+
+- Java (JDK 17)
+- Command Line
+- Git & GitHub
       
-## Learning Approach
+## 🧠 Learning Approach
 
-   - One concept at a time
-	-	Simple and readable code
-	-	Logic written for understanding, not memorization
-	-	Practice-oriented structure
-	-	Gradual increase in difficulty
+- One concept at a time
+- Simple and readable code
+- Logic-first programming
+- Gradual increase in difficulty
+- Practice-oriented structure
 
-## Upcoming Topics
-- Arrays
+## 🎯 Upcoming Topics
+
 - Strings
 - Object-Oriented Programming (OOP)
 - Exception Handling
+- Collections Framework
 - File Handling
 - Mini Projects
 
-## 🔧 Project Configuration
 
+## 🔧 Project Configuration
 - `.gitignore` is used to exclude compiled files, IDE settings, and system-generated files
 - Keeps the repository clean and professional
 
@@ -118,11 +135,6 @@ This repository is designed to move step-by-step from basic syntax to core Java 
 	-	Language: Java
 	-	IDE: Any Java-supported IDE (IntelliJ IDEA / VS Code / Eclipse)
 	-	Java Version: Standard JDK
-
-## Notes
-	-	Each program focuses on one concept
-	-	Folder naming follows topic-wise organization
-	-	Code is intentionally kept simple for clarity
 
 ## Progress Philosophy
   Consistency beats intensity.
@@ -133,3 +145,9 @@ This repository is updated gradually as concepts are learned and practiced.
 
 This repository tracks my progress in Java and helps me
 develop logical thinking and clean coding habits.
+
+## 👨‍💻 Author
+
+Aradhya Singh Thakur  
+Aspiring Java Backend Developer  
+Focused on building strong fundamentals and practical skills.
