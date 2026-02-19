@@ -62,6 +62,7 @@ to advanced core concepts.
 ### arrays
 - 1D array
 - 2D array
+- Array Methods – Programs using built-in Arrays class and custom array methods
   
 ## Folder Structure
 
@@ -91,6 +92,7 @@ to advanced core concepts.
 arrays/
    ├── oneD/
    └── twoD/
+   └── methods/
    
 - .gitignore
 -  README.md
