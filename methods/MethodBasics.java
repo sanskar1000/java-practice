@@ -1,5 +1,10 @@
-//Demonstrates methods
 package methods;
+
+/*
+ Program: MethodBasics
+ Purpose: Demonstrate basic method creation and usage
+ Concept: Method definition
+*/
 
 public class MethodBasics {
 
